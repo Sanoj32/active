@@ -1,4 +1,4 @@
-Active for Laravel
+Fork of Active for Laravel
 ======
 [![Build Status](https://travis-ci.org/letrunghieu/active.png?branch=master)](https://travis-ci.org/letrunghieu/active)
 [![Latest Stable Version](https://poser.pugx.org/hieu-le/active/v/stable.svg)](https://packagist.org/packages/hieu-le/active)
@@ -7,8 +7,6 @@ Active for Laravel
 [![Total Downloads](https://poser.pugx.org/hieu-le/active/downloads.svg)](https://packagist.org/packages/hieu-le/active)
 [![License](https://poser.pugx.org/hieu-le/active/license.svg)](https://packagist.org/packages/hieu-le/active)
 
-> [!CAUTION]
-> **This repository is not maintained any more. Please feel free to fork it and make it compatible to new versions of Laravel.**
 
 The helper class for Laravel applications to get active class base on current url.
 
