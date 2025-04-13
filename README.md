@@ -46,7 +46,7 @@ See: [How to use Active](https://www.hieule.info/tag/laravel-active/)
 
 ## Changelog:
 
-* v7.0: support Laravel 7 and start using the same marjor version with Laravel
+* v7.0: support Laravel 7 and start using the same major version with Laravel
 * v4.0: support Laravel 6 and PHPUnit 8
 * v3.5: support Laravel 5.5.x and PHPUnit 6
 * v3.4: support Laravel 5.4.x
